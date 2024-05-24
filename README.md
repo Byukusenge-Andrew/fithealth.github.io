@@ -44,7 +44,7 @@ You need a web browser to view the page. No additional software is required.
 
 2. Navigate to the project directory:
     ```sh
-    cd fithealth/fithealth
+    cd fithealth
     ```
 
 ## Usage
